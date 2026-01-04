@@ -23,7 +23,7 @@ const Footer = () => {
         <div>
           <h3 className="font-bold text-lg mb-4 border-b border-blue-400 pb-2">About Portal</h3>
           <p className="text-gray-300 text-xs text-justify">
-            This is the official website of J&K Board of School Education. Note: This website is a CLONE for educational purposes only. Content managed by Admin.
+            This is the official website of J&K Board of School Education. Note: This website is a CLONE for educational purposes only. Content managed by AKHIL SHARMA.
           </p>
         </div>
       </div>

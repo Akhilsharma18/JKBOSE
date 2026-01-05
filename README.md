@@ -12,7 +12,7 @@ This is a Full Stack MERN clone of the JKBOSE website.
 
 ## Setup & Run
 
-### 1. Backend Setup
+## 1. Backend Setup
 ```bash
 cd backend
 npm install
